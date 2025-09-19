@@ -1,0 +1,620 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/NEsiHBxe1vQ
+
+00:00:10.349 [Music] hello hello and we're here for the finale the most important part of the entire
+00:00:17.240 Festival the ignite pitch competition final thank you to everybody for hanging around
+00:00:23.250 for the startups who are taking part as finalists for the audience who have come to support your fellow startups thank you very much we'll organize a term sheet for each of you at the
+00:00:31.660 end we just just stay with us um it you know as somebody who stood here on this stage all
+00:00:38.300 day yesterday I haven't gotten the opportunity to see any of the pictures so I'm equally as excited to see the pictures that we have here today um I'd like to give a warm welcome
+00:00:47.780 to our judges who've taken a you know time to get out of this we don't have a golden
+00:00:52.890 buzzer or anything like that but one of you will have to decide who's going to be the Simon Cowell of the group um please welcome our judges John fritzel the ceto adventure
+00:01:01.600 partner at Shore Valley David Lowe the Director of Business Development at Goodbody and Bannon
+00:01:06.790 the head of Technology at aib felipo kusari the managing partner at agile GTM and Pamela
+00:01:12.860 Crichton the investor and investor at weltech ventures can I have a round of applause for our judges please
+00:01:21.540 so folks how this is going to work is we're going to invite the finalists up one at a time they are going to have six minutes to tell us all about their business pitch their
+00:01:30.000 business the judges are then going to have five minutes of questions we have five finalists in total and then just after the finalists while the judges are deliberating we have
+00:01:39.610 an amazing panel for with amazing uh fireside chat for you just to keep you busy while we're waiting for the finalists um so up first can I please welcome to the stage block
+00:01:56.109 hello Dublin how are we hello judges so I'm the first up that means I need to be memorable
+00:02:02.950 or as I learned in the pub last night I need to be deadly I want you to feel like at the
+00:02:08.280 end of this that this present this pitch was Grand yes so let's talk about blocks we help
+00:02:15.420 leaders to make better faster decisions without wasting lots of time in spreadsheets the problem
+00:02:22.440 today with decision making so let's talk about decision making today for a lot of decisions it's just intuition and that's okay and when things get a bit more complex we'll whip out
+00:02:31.890 a spreadsheet but spreadsheets can get complex really fast and for the big things fundraising
+00:02:38.810 pricing Acquisitions we often turn to finance experts who can build a spreadsheet for us
+00:02:45.709 or use Advanced software but that can be really expensive so what's the problem so today leaders
+00:02:52.849 lose hours on spreadsheets and that's time that they're taking away from running the business to just manipulate a spreadsheet copying and paste inserting rows and columns
+00:03:03.879 a lot of smes can't afford Finance experts so they spend their evenings and weekends
+00:03:10.599 on YouTube and Google figuring out how to build a spreadsheet but the quality of those spreadsheets can be questionable it doesn't necessarily help them with great decisions
+00:03:19.450 so they can make poor decisions a tech CEO that's just raising their series a recently
+00:03:24.920 spoke to him last week and he said that they spent over three weeks building a financial model with an expert tens of thousands and he said it just felt like a massive waste
+00:03:33.230 of time and a big rip-off so what if you had expert level fpna at a fraction of the cost
+00:03:41.840 available 24 7 online that's the product that we're building at blocks to enable SME leaders
+00:03:49.680 to build robust Financial plans Financial models with our experts or spreadsheets in
+00:03:54.980 just a fraction of the time and we've done it before I'm Simon the founder and CEO I
+00:04:01.390 was an early employee at the Enterprise planning software and a plan we scaled tremendously
+00:04:08.540 over the time it was we ipo'd in 2018 and it was acquired last year for over 10 billion
+00:04:14.220 dollars what I observed repeatedly is that in the center you would have a finance team
+00:04:19.899 who who run the budget process but out in in the in the Departments or the business
+00:04:26.650 units you've got a leader who's who needs a model which they can easily change easily
+00:04:32.070 adjust when they need to change their pricing or restructure the business so everybody's running their own spreadsheets and what you end up with is is Excel hell XL chaos because
+00:04:42.280 everyone's got their own spreadsheets lots of copying and pasting lots of wasted time
+00:04:48.009 so with blocks it's easy you grab a model from Ally our Marketplace that gets you started
+00:04:53.699 it's really easy to to tailor it and customize it for your business using our intuitive interface and our built-in intelligence and voila you've got a plan you didn't have to spend your evenings
+00:05:05.699 building a spreadsheet what makes us different is our engine we've used our deep industry
+00:05:11.660 expertise in planning to build a flexible and Powerful modeling engine so we're actually
+00:05:17.460 doing the modeling behind the scenes you don't have to build your own spreadsheet and build all your formulas one by one our interface makes it really easy for every leader to build
+00:05:26.380 a model to build their model and tailor it for their business and the thing I'm most excited about is our intelligence we're building the worlds first AI generated Financial modeling
+00:05:36.630 solution that means as soon as we get your website we can interpret what you do how you
+00:05:42.770 make money your pricing your team we can pull that data and push it directly into blocks
+00:05:48.419 and give you a financial model without you having to build it all from scratch or copy and paste or import all your data so you can get a financial model within minutes it may
+00:05:58.849 for us it means we can onboard customers at PACE and for our users it means that they get to Value really fast this is a massive Market we focus on small and medium business
+00:06:10.460 there are five over five million companies in our target market which represents over
+00:06:15.949 five billion dollar opportunity there are other players in the space there are lots
+00:06:22.169 of lots of tools that can help with cash flow management linked to your accounting system
+00:06:27.620 so they help you figure out am I going to run out of cash in the next few weeks if you want a tool that's going to help you with strategic financial planning so you can plug
+00:06:36.330 in your assumptions so as a leader you can sit down and think about how am I going to grow this business and build a multi-year financial plan you are going to you're often
+00:06:45.860 looking at a system which is going to cost you 30 grand plus a year and that's just not accessible for a small business and that's why most of us are still using spreadsheets
+00:06:55.020 so we focus on the main incumbent we're replacing is this spreadsheet where B2B SAS model with
+00:07:03.690 a free tier to attract spreadsheet users on mass to reduce friction
+00:07:10.289 we're still early in our journey we were found in the middle of last year we ran our beta and we launched to the public in February just this year we've already had over a thousand
+00:07:21.400 users using the product who have built over 1200 models one of one of our customers just
+00:07:28.520 used it in the acquisition of his technology business he was so excited about what blocks
+00:07:34.440 could do for him he insisted on paying for paying for us to support him we we shared
+00:07:39.819 it the blocks model within with the acquiring company they logged in and they were they used it to evaluate his business um he was so excited he said we actually were able to
+00:07:49.140 double the valuation a remarkable result he recommends us for anyone seeking phenomenal
+00:07:54.500 outcomes we've got an amazing team I've got to find a chartered accountant with a finance
+00:07:59.889 background Matt and myself worked together at annaplan and Rob and Mike are the right
+00:08:05.090 team to make this to build this and make it easy for users we've already raised over 600k
+00:08:12.409 which I'm pretty proud of in this current market conditions and we're really we're still
+00:08:17.590 looking for a 200k to get to our 800k Target that will that will help us bring on additional
+00:08:23.389 resource for sales and marketing to get to a to to bring on 200 paying customers and
+00:08:28.740 get to 100K in ARR by q1 next year thanks very much if you are a leader looking to build
+00:08:37.529 a plan and you're struggling with spreadsheets I'd love it if you come and talk to us we're still hanging around over in the corner over there and if you're an investor and you're
+00:08:45.700 sick of looking at um crazy spreadsheet models that people send you when they're pitching
+00:08:51.530 you for investment I'd love to have a conversation thanks very much [Applause]
+00:08:59.450 okay judges if your mic there who's up first I'm always the one who's asking questions
+00:09:09.380 first so do it again nice so uh hi um so it's pretty good um the only question I have is
+00:09:15.920 what are the use cases that you're looking at right now because so also maybe a bit more about the engine itself is it already built out and and you know what what at what stage
+00:09:24.620 is that because that's the biggest problem of um Ai and BW SAS and yeah you know the whole cycle how long it takes and so on and so forth so that first and then the second
+00:09:33.400 thing yeah like I said the use cases would be really great because going after a market that is smes is huge um so I'd love to hear more about that yeah so the engine so we've
+00:09:43.649 actually been working on this for over 18 months we were a spin out so we had already been working on the engine in the company where I was previously the chief product officer
+00:09:52.330 I was really excited about this idea way more excited than the core business so I made them an offer got a really good deal and spun out this as a new company so the engine is built
+00:10:03.070 um it's a com yeah highly highly performant modeling engine that's a fantastic backbone
+00:10:08.209 it's the core IP of the business um the concrete use cases so we work for um many different
+00:10:16.010 types of businesses so for a startup it's a financial model if you've got a subscription
+00:10:21.770 Revenue model you can plug in your your assumptions growth assumptions we work for service businesses
+00:10:28.140 you can plug in your team your daily rates your utilization assumptions and we can build
+00:10:33.709 out a financial model for service businesses we can also connect to Source Data Systems
+00:10:40.329 so the primary use case for a monthly recurring contract with us would be connecting to your
+00:10:45.730 accounting software or your CRM you can import your data and update your forecast based on
+00:10:52.079 that so really good for sales forecasting marketing spend planning a lot of those things
+00:10:57.500 that you need to build and scale a business what about the verticals verticals yeah we're focused quite a lot on technology what we look for is a really ambitious leader so we're
+00:11:09.920 looking for a lot of tech and startups at the moment because there's lots of ambitious leaders that need a financial model to grow the business and to raise money so that's
+00:11:18.480 a primary driver for building a financial model otherwise ambitious leaders who are raising funds um so very much Tech at the moment but the platform is flexible and can
+00:11:28.450 be used all over the place we just have a job to do to build models to help users get
+00:11:34.100 started all right so uh two questions uh first tornadoes can you tell me a little bit more about the
+00:11:43.510 rest of the team who else is involved what does that look like yep so the founding the founding team is myself and two others a product manager and a designer so we worked together
+00:11:53.640 in the previous company and I I've been out went out to my network hired a head of marketing
+00:11:59.160 so for SME it's really important that we have great great marketing we can acquire users at a very low acquisition cost so head of marketing a finance manager and we work with
+00:12:09.550 a very strong software development agency we've we've run I've I was previously in product
+00:12:14.889 at annaplan so we know how to build Great Tech so we work with a very very very decent
+00:12:20.139 technology partner for our software okay cool thanks second question is it feels like spreadsheets
+00:12:27.010 are about to get a lot smarter with Microsoft co-pilot do you see that as a trash and if
+00:12:32.070 so how do you plan to deal with it um yeah somewhat but a lot of the challenge that we
+00:12:38.140 solve for is just the the the mundane repetitive nature of us of spreadsheets so you want to
+00:12:43.649 import your actual data you want to update your forecast you need to change your plan
+00:12:49.579 so it works for two years instead of one you want to change the structure of your model A lot of those things some of those things with a co-pilot type situation a spreadsheet
+00:12:58.020 might become usable but there are still so many instances where with our software we
+00:13:03.800 can automate so much of that manual work and make it really robust planning solution that
+00:13:10.519 the leader can rely on to help them run the business and make the big decisions okay thanks
+00:13:15.730 thanks hi very nice presentation so tell me you said 120k in ARR with the 600 000. so how many
+00:13:26.100 units is that are you looking at you know how many actual deals is that are there multiple
+00:13:31.310 users in a customer so 200 so basically it's 200 paying customers today no this was this
+00:13:37.920 is our Target So today we're pre-revenue we're launching paid plans in September as was on
+00:13:43.670 the slide and the plan is to get to 200 paying customers paying us 42 pounds a month and
+00:13:49.839 that's 100K ARR so that's three paid users is our assumption per customer and 42 pounds
+00:13:56.921 for over 200 paying customers to get to 100K in ARR over what time period so we our forecast
+00:14:05.361 starts on boarding Revenue in September and by the end of March we've we're at that level yeah and with the unique nature do you have any multiplier strategy from powered by putting
+00:14:17.550 it into other tools um is there a partner strategy there yeah so um so you absolutely
+00:14:23.960 partnership strategies we're looking at um there's lots of opportunity to work with spend
+00:14:30.020 management software so like pleo or spendesk or other technology Partners also but also
+00:14:36.259 partner up with a lot of accelerators and um and incubation houses that help startups
+00:14:43.070 a lot of startups they have great ideas but they don't really understand the finances so we can help with that yeah excellent thanks very much thank you very much
+00:15:01.110 up next uh can I have elephant attack please
+00:15:14.570 I'm very pleased to hear okay behold I'll jump in my presentation uh let me ask one question that you may probably
+00:15:25.600 be familiar with the semiconductor integral search or Isis what's company do you know
+00:15:33.180 the semiconder company no maybe the intro here at random or tsmc Samsung or something
+00:15:42.100 so that the semiconductor is everywhere in electronics devices no doubt I think but semiconductor
+00:15:52.100 do not work alone semiconductor need to press on somewhere to get a physical stability and
+00:16:03.209 electronic connection between merge prices printed searched board or a PCB we make is
+00:16:11.660 a place a important role so that the printed searchable PCB Market is a huge there are
+00:16:21.540 almost 70 billion the US dollar of Market or globally also the good amounts of the growth
+00:16:33.220 rate now we are focusing on this Market but uh PCB uh Market is a summer issue one is
+00:16:43.650 uh uh making the unsustainable way of manufacturing so that's uh gas emission uh there are a huge
+00:16:54.560 amount of emission to go out so apple apple says that in their products uh 10 percent
+00:17:03.149 of their emission is from the PCB printed searchable this is uh not a neglectable number
+00:17:12.261 also there are Water waste problems the existing and conventional PCB production uses a huge
+00:17:23.500 amountable water so that this is one of the problem for not sustainability also the regional
+00:17:33.230 risk so the current are pretty sextable are made by the certain countries like this so
+00:17:42.110 that especially in the United States have a much concern over there are certain sport
+00:17:49.780 production in certain countries also the current uh printed such both use something like a
+00:17:59.021 rare us so like a paradigm so that uh current PCB uses this rare US also there are this
+00:18:08.640 material are highly depending on these countries this should be the problem of the current
+00:18:17.770 uh to both industry
+00:18:29.370 Industries this is our production method we call a pure additive method this is a pre uh our production
+00:18:41.650 so that our production is very simple we purchased the substance sub storage like for email and
+00:18:51.039 we use our increased printer to print the metal nanoparticle that only well needed to
+00:18:59.770 make uh searched and then we applied a plating to get a sickness of the Torres that go through
+00:19:11.870 the electronic current basically it's uh it's all over uh the manufacturing process you
+00:19:21.750 may know there are conventional traditional wave of the PCB Manufacturing so that the
+00:19:29.500 traditional way of manufacturing uses a mining the chemical treatment it's like a chemical
+00:19:36.740 etching it means uh
+00:19:42.770 remove our unnecessary part of the rockapa and this in this process produce the many
+00:19:50.130 are waste also the chemical treatment needs washing so that the tons of water is used
+00:20:02.210 so that this production traditional production is not sustainable
+00:20:10.140 so that comparing our process and our conventional process we claim this so that the Kappa uses
+00:20:18.700 kapha consumption is a reduced 70 percent from the traditional manufacturing way also
+00:20:26.550 there are carbon footprint is also uh reduce the minus 75 percent uh comparing a traditional
+00:20:38.220 way also the water usage for washing water usage drastically reduce the minus 90 percent
+00:20:46.360 you say that if you you need uh just one square meter of printed searchable you are traditional
+00:20:54.230 way you use a 1.5 tons of water for washing but we can reduce there are minus 95 percent
+00:21:03.549 of water water usage and we can provide this sustainability also the we can provide the cost competitiveness
+00:21:15.669 that because our process is a simple simpler than the traditional one also the uh our process
+00:21:25.950 use less material so that so that's why we can provide the cost of competitiveness
+00:21:33.159 all right this is our manufacturing equipment and this is uh for the medal of nanoparticle
+00:21:44.260 just magnified and make which there are in replicate the status to to print by the English
+00:21:53.640 printer and we can print uh the uh nanoparticle just for the uh to race just needed needed
+00:22:01.789 place you're you're out of time I'm afraid six minutes are up okay so we'd have to stop
+00:22:08.679 there okay maybe the judge's questions might get into some more of your detail thank you so judges is there somebody who wants to go first with the question there who has the
+00:22:16.679 bike oh there you go for my understanding please speak slowly uh product pattern protectors
+00:22:27.210 do you have a patented yes we have a patent also we have many many know-how so that this
+00:22:34.960 technology is not to patented but also I need them many the know-how to manufacturing and
+00:22:41.410 is that Global yes okay thank you
+00:22:47.299 what is the market that you're going after okay so because I see that the printing people are printing less and less to be honest so I'm are you what are you looking at okay what
+00:22:56.150 are you looking at yeah as I said the semiconductor is everywhere that means are putting data
+00:23:01.779 circuit board is also everywhere in the electronic devices but there are currently we are now
+00:23:07.850 focusing on uh consumer devices go devices yes
+00:23:19.570 or something like that what stage are you at at the moment and what traction do you have
+00:23:30.960 uh uh we we have a good good strategy so that we have the uh uh not uh but also that we
+00:23:44.100 can we can serve the English printer for the uh itself to to address the 90 billion over
+00:23:50.830 uh Market can you talk a little bit about the team the people you have together okay uh we uh uh
+00:24:01.400 everyone think just started 2014 and uh CEO and CTO is a
+00:24:10.030 and he has a good knowledge of their marketing also technology and he really and we have
+00:24:21.260 many uh uh people hiring from the talented people from from Japanese other company that
+00:24:28.600 included sprinting chemicals also substant technology or something just just a follow-up
+00:24:36.350 question on the traction so you do have customers this technology is not not a laboratory technology
+00:24:45.440 but we also have the mass production plant in Japan and we all are already shipping the
+00:24:51.760 volume production to Japanese customers and also that we are aiming to the ship the European
+00:24:58.779 customer right now and what's your ask what you're presenting here so what do you what
+00:25:05.950 is your ask what do you want from anybody here uh yes so that uh uh European customer
+00:25:12.860 want uh usually want uh sustainability so that yeah we can provide the sustainable management
+00:25:20.220 way to European customers so that I want to work with a customer also there are uh CBC
+00:25:28.919 if you hear yeah we wanna get your invention to us thank you
+00:25:39.980 thank you very much elephant Tech
+00:25:47.179 next up IA labs
+00:26:05.059 hi everybody it's great to be here today it's great to be in the final as well so um let me tell you a little bit about IA Labs Aya labs are building a solution to make the world
+00:26:15.169 digitally equal to everyone so just introduce myself my name is Karen Amani I'm the CEO
+00:26:21.570 and founder of inclusion and accessibility Labs I'm also lucky enough to be the chief technology officer in the National Council for the blind a very quick background on myself
+00:26:30.360 I grew up in Ireland with a disability I only have about 17 percent of normal vision I'm
+00:26:36.470 legally blind but I do have some useful vision and I really struggle through education and I was sent from medial classes I was always at the bottom of the class I scraped myself
+00:26:46.500 into a computer science degree and my world changed overnight I went from being the back
+00:26:53.230 of the class to the middle class I could increase the text size I consumed information everything
+00:26:59.679 changed in my life now every single day I use Technologies enabler I literally use it to see the bus to Make It Stop So I know which number I also make sure that we um I can read
+00:27:11.029 a bedtime story to my daughter every single night using my iPhone the magnification that's some important technology is to me so I've built a company company excuse me where we
+00:27:21.000 have a single Mantra technology is the single greatest enabler to people with a disability
+00:27:26.059 or to anyone with a disability but the world is not perfect of the top 1 million sites
+00:27:34.460 only one percent are digitally accessible that's one percent can you imagine only being
+00:27:39.510 able to use one percent of the websites that you interact with daily if you look close
+00:27:44.890 to home in Ireland less than 20 less than 28 of the top 100 companies are digitally
+00:27:50.200 accessible education scores really poorly not surprising top primary skills the top
+00:27:56.620 secondary and third level education all do not have digitally accessible websites the
+00:28:01.870 one that really bowls me away over 600 recruitment companies in Ireland which I emailed directly
+00:28:08.030 none have digitally accessible website and you might have seen the report uh yesterday
+00:28:13.190 released by the government saying we're at highest levels of employment the reality is for people with sight loss in this country less than 16 of people with sight loss are
+00:28:22.309 employed let me remind you IA labs are building a solution to make the world digitally accessible
+00:28:30.519 to everyone so what we're building we're building a SAS solution that automatically automatically scans a website to ensure that you meet the wcag standard that's an internationally recognized
+00:28:40.559 standard on digital accessibility we do all sorts of things as part of that we scan your
+00:28:46.309 your website we build a progress report over time we let you know how you're how you're progressing and your inclusion score over time but more important than that we're going
+00:28:54.510 to release a tool for free to people with disabilities that allows them to fix General
+00:28:59.929 issues that they experience on their website and more importantly allows them to report on how they are excluded from the digital world just to give you a quick perspective
+00:29:08.529 of what the system would look and feel like as you can see you can see your inclusion score over time you see your compliance level against the legislation you also you see um
+00:29:19.549 ilab's inclusion score which is proprietary for our algorithm we even got into the level
+00:29:25.120 of the code we show what code is broken to the developers and we showed them how to fix it and more importantly it's all based on the feedback of people with disabilities how
+00:29:36.010 they interact with the digital world and we take that data and we build a machine learning model around it to make our system based on the feedback of people with disabilities let
+00:29:44.580 me talk to you about the team we have an incredible board in place all people are leaders in the
+00:29:50.690 digital or sorry in the disability sector all with huge commercial Acumen we've got a great team on board um I'd like to say of note our CTO Neil who's built and scaled many
+00:30:01.860 products in the past and also for tell the ruleman who leads our digital accessibility team and is a guru in that space so just briefly let me talk to you a little bit about why
+00:30:12.760 you would want to make your website digitally accessible it really comes down to this the who said is 1.6 billion people globally that have a disability we know it's actually slightly
+00:30:22.269 larger than that it's actually closer to about one one in four there's 13 trillion in wealth
+00:30:29.159 that's controlled globally by people with disabilities but fundamentally there's three reasons if your company has a diversity and inclusion agenda A diversity Equity inclusion
+00:30:38.610 excuse me how can you apply for a job in our company if your website is not digitally accessible
+00:30:44.159 commercially if up to 25 percent of the people that engage with your services online are
+00:30:49.559 prevented for interacting with you it makes a lot of commercial sense to invest in digital
+00:30:54.889 accessibility and finally I want to talk to you about the European accessibility act that's coming in 2025. this is the gdpr for the digital accessibility world
+00:31:08.760 it's also the right thing to do just to talk about Market traction we are profitable as we stand at the moment we've generated over 700k in Revenue we're looking at 900k this
+00:31:17.559 year all of our SAS pricing model is available we've tested it it's at about 70 profit per
+00:31:24.150 plan and we've tested across many sites our algorithm works we should be live in about
+00:31:29.740 six weeks from a competitor analysis standpoint there's two of any significance one charges
+00:31:35.980 800 more than we do and offers a smaller feature set and one is also funded up to about 56
+00:31:42.460 million their CEO released a statement two weeks ago that says we did not listen to people with disabilities we got it wrong we made a mistake we need to do it again we're already
+00:31:51.990 ahead of them in terms of our Tech I want to leave you with this today if you if you
+00:31:57.780 don't take anything else from my presentation technology is the single greatest enabler
+00:32:03.370 to anyone with a disability thank you very much [Applause] hi Karen um I had the pleasure
+00:32:18.159 of seeing you yesterday it was good today was great so I am thank you I have a question
+00:32:23.730 on the 13 trillion dollars of wealth that's managed by the disability Community is that
+00:32:29.580 related to site or is that a general number no it's patent disability every even though I have sight loss personally all the statistics are Pond disability that I mentioned today
+00:32:37.750 okay across all disabilities yeah and then another question when you say websites right
+00:32:43.179 are you taking that as far as like digital banking or online so so it's not just websites
+00:32:49.380 that we're accessing it's the tools that we access all digital products websites mobile
+00:32:54.769 applications we actually have signed up two of Ireland's uh two of Ireland's financial institutions one of them recently just extended with us for an additional two years so it's
+00:33:03.240 across all products and services that are digital yeah okay thank you could you talk a little bit about his partners and my partners you think you can use to you
+00:33:13.940 know make things happen faster I mean how would how would we scale or how do we yeah
+00:33:19.669 so um so my background is actually not in the in the disability sector it's in the commercial
+00:33:25.039 World um so one of the things that I've worked on is how we can bring to Market our product
+00:33:30.250 as quickly as possible to Showcase that it is it is something that's real it's something that can be achievable so we actually have teams across um we've outsourced some of our
+00:33:38.290 developments some of it's in-house and we've used that to bring the product to it's a market quite quickly one of the things that we found really beneficial is we work with a lot of
+00:33:46.669 Ireland's leading development companies who've basically said it's there's a huge value in having us certifying that their websites are compliant and ultimately then that means that
+00:33:55.269 when they're selling to their customers their their own clients we can actually put our stamp and our logo on their website for example we're featured on about 20 logo or 20 websites
+00:34:05.360 at the moment including on posts and many others large entities in Ireland but certainly the the relationship with development companies have been really beneficial to us can you
+00:34:15.719 talk a little bit more about the revenue today um you said you're launching the platform yeah in in the future so it's the revenue today it's Services based or exactly yeah
+00:34:25.500 so at the moment our service is purely a manual service that we are transitioning to an automated service and one of the things I want to emphasize with that is because at the moment we know
+00:34:34.879 there's a demand there but more importantly we've have over 150 clients on our books at
+00:34:40.050 the moment who we've already briefed on the automated Solutions so we're creating a natural pipeline of customers that will transition from our manual approach true tour or automatically
+00:34:49.199 clouds so I think we're kind of unique in in the market in that sense for a startup where we already have an active customer base who are engaging with us and are looking at
+00:34:57.240 our automated solution hi I have three questions first one is the customers that you currently have what is
+00:35:06.859 this um you know what are these what is it composed of I'd like to learn more about the
+00:35:12.290 companies basically um second thing is the I'm not um entirely sure what the diversity
+00:35:18.990 and inclusion budget how much of you know how much would that be on those typical companies that you reach out to and what percentage of that is is actually for digital um you
+00:35:29.300 know for digital inclusion because that's that's or inclusivity because that's kind of where you sit in and let's say that they have a budget that is huge for all kinds of
+00:35:37.530 things right and then it's it's what what you how it specifically relates to you so
+00:35:42.859 yeah I'd love to hear that yeah um hopefully I remember all three so let me talk to the first one in terms of our customer base at the moment it's actually incredibly diverse
+00:35:51.210 so we have a mixture of financial institutions insurance companies um right through to most
+00:35:57.650 most people that tend to deliver their service online and what we found is true true pure Outreach at the moment typically when we make people aware of this they say oh actually
+00:36:06.180 this seems like it makes a lot of commercial sense so to lead a little bit more into your second question in terms of the budgetary piece I mean it's actually a relatively yourself
+00:36:14.670 in the price plans there I mean if you're running a digital accessibility our digital accessibility solution across one website you're talking 150 Euro a year most companies
+00:36:24.060 that we have engaged with though typically have a development side of a staging site they want to make sure their entire pipeline has that digital accessibility Focus so we
+00:36:31.730 tend to see people come come back to us and recurring is actually a big part of what we do and up to 40 of our customers come back to us over and over again because websites
+00:36:40.750 aren't static mobile applications are not static but one more thing I'd like to say is that in terms of a budgetary piece I would kind of challenge a little bit on that and
+00:36:49.610 say if you don't have a digitally accessible website by 2025 and the legislation explicitly
+00:36:54.950 states that so all commercial websites all websites that are providing a commercial solution must have a digital accessible website or they can be litigated against which is a big
+00:37:04.680 change in legislation so that market in fact is European wide it's already in the state
+00:37:09.691 similar legislation so any any company that has a website is exposed to that so if you
+00:37:15.140 flip the coin and say well do you remember when gdpr was coming online what budget was assigned for gdpr and it gained that traction around it it's a very similar approach that
+00:37:23.750 we're having from digital accessibility standpoint foreign what do you expect your revenues to
+00:37:30.420 be in five years in five years we have um revenues of 10 million predicted I think that's
+00:37:36.300 a little bit conservative all of our numbers are by the way have been backed and validated by BDO it's not just me um it's not hyperbole we've done full Financial modeling on that
+00:37:44.700 so we're at at 2025 or predicted about 10 million
+00:37:51.280 is that it
+00:38:01.900 and up next we'll have my money hello everyone my name is Greta and I'm the CMO at my money here at my money we know that
+00:38:15.720 the biggest problem affecting the payment sector today are social exclusion and frauds
+00:38:21.700 global card fraud attacks that cost the economy 29 billion dollars last year and how is that
+00:38:29.099 possible it only takes six seconds to clone a credit card and one second to intercept
+00:38:34.770 a contactless credit card payment furthermore 1.7 billion people in the world are financially
+00:38:41.160 excluded through being unbanked or not having access to the internet the solution for this
+00:38:47.380 is biometric payments and according to the pst2 they are the safest payment on the market
+00:38:53.310 today the market of mobile payments is set to increase by four times in the next four
+00:38:59.420 years but soar fruits and that is why we are replacing existing payments such as cash cards
+00:39:06.520 and mobile payments with payments by fingerprint competitors are starting to arise in the market
+00:39:14.270 but their Solutions still have critical issues which do not allow them to be used in every situation for example facial recognition needs the right amount of light to work it needs
+00:39:24.690 to process a lot of data so you cannot process many people quickly and it doesn't guarantee
+00:39:30.619 a high level of privacy my money is the most secure payment system because it uses fingerprint
+00:39:38.160 as a biometric which our readers have FBI certified readers which means that no one
+00:39:46.020 can clone your fingerprint and use it because it would not work no one can chop your finger off and use it because there's liveness detectors in the readers it is fast because your fingerprint
+00:39:55.880 is small so there's not a lot of data required to be processed it guarantees greater privacy
+00:40:01.920 because I do not know the color of your skin your gender or what you look like in general
+00:40:07.740 and it is a voluntary Act of placing your finger on the reader unlike facial recognition
+00:40:14.240 voice recognition or Iris recognition so how does my money work it is super simple the
+00:40:20.130 user just needs to download the app register their data connect their payment methods register
+00:40:25.740 their fingerprint and then they can go out and pay using only their finger getting on
+00:40:31.310 the market would be very easy for us because we have secured exclusive partnership with all of the major POS machine producers our biggest partner is PAX who is a world leader
+00:40:42.080 in their industry and they have recently signed an agreement with the Italian postal service
+00:40:48.360 for 60 000 of their terminals to be used exclusively with our software we have also partnered with
+00:40:54.920 axon which makes biometric kiosks and skidata for unattended POS machines we also have more
+00:41:04.240 Partnerships with Spectra talpan uravo when it comes to POS machines and then dermalog and Art Attack when it comes to only the piece that reads your fingerprint so what are the
+00:41:14.640 advantages of my money on the merchant side it is fast Innovative easy and secure so they can attract more customers and on the customer side it is also Innovative easy and very secure
+00:41:25.010 but it is also a natural gesture and it is always with you our business model will initially
+00:41:31.440 be a b2b2c which will allow us to have 0.4 percent of every transaction but we plan on
+00:41:37.980 becoming a virtual bank which will allow us to have 0.7 percent of every transaction we're
+00:41:45.020 starting to get recognized um we're getting nominated for awards alongside HSBC even though
+00:41:51.620 we're not on the market yet this is a roadmap we are very close to launching by the end
+00:41:58.250 of summer we are ready to launch in Italy with uh post Italiana we have a world leading
+00:42:05.670 core team from the CEO to the CFO to the CBO CTO with many years of experience in the world
+00:42:12.900 of payments and in biometrics we cannot wait to go on this journey and get started thank
+00:42:21.010 you
+00:42:30.869 yeah I am just one question what's the barrier for competitors or two competitors coming
+00:42:37.730 into this Market um most of the biggest players out there such as like Alibaba they're using
+00:42:46.750 facial recognition with alipay and as I mentioned before it is not so usable for every type
+00:42:51.960 of scenario Jeff Bezos is doing problem vein reader which is a very big piece of tech and
+00:42:58.450 it's more expensive it's not so easy to implement everywhere with our system the readers are
+00:43:04.800 just coming to the market it's just the next evolution of the POS machines is going to be with embedded fingerprint readers and the little like fingerprint readers just the single
+00:43:16.430 piece can be integrated to any type of machine through Bluetooth so it is very easy and we
+00:43:23.220 have the domain over all of this our solution is patented as well and with the expertise
+00:43:29.630 and the people that we have in our team we have secured lots of Partnerships with the
+00:43:34.760 biggest players okay thanks I have a question so basically you're saying that nobody has
+00:43:39.890 done it before because of the natural linear evolution of Technology is that the main kind
+00:43:46.059 of your way of saying we haven't nobody has done it before us because nobody has done
+00:43:52.170 it before us not the way we're doing it um not with our team not with our expertise now
+00:43:57.260 is the right time we have a patent other people are doing it in different ways which we don't think are suitable for the market and we have big plans Beyond payments for this um software
+00:44:08.319 understood the second question what happens with the data what happens with the data yeah you're giving data like we're giving you data right okay okay yeah this is everyone's concern
+00:44:17.320 when we talk about Biometrics basically when you enroll your fingerprint it gets encrypted
+00:44:23.220 and then we only store that encryption and what our software does is the matching of the fingerprint when you are actually going in a point of sale so we don't store any of
+00:44:31.829 your other data we just do the matching okay and is that possible to can someone reach
+00:44:38.050 it somehow and if if it does what would be the implications of it or if if not alternatively maybe do you have any kind of um I guess regulation in place or or anything like that to prevent
+00:44:49.880 that from happening yeah so the chances of it happening are actually so slim because
+00:44:55.329 we first of all encrypt the data from your fingerprint so someone would have to be able to decrypt it in a to be able to use it secondly if they do manage to do this they would be
+00:45:06.410 making a replica of your fingerprint which would not work with the fingerprint readers
+00:45:12.069 and if someone were to cut your finger off to try and use it it would also not work
+00:45:19.640 um a couple questions so it was an impressive list of Hardware device manufacturers that
+00:45:25.069 you would say you have Partnerships with can you talk a little bit more about that about how advanced they are or how concrete they are any exclusivity and and just a little
+00:45:35.380 bit more about that so we have exclusive Partnerships with with as I mentioned they are our biggest
+00:45:43.359 partnership many of their people that work like in very top level for them are invested
+00:45:50.119 in our company as well and we have already signed like agreements with them we're going ahead with the Italian Postal Service so they have signed an agreement with the Italian
+00:46:00.540 Postal Service which also doubles as a bank in Italy for a supply of 60 000 of their Terminals
+00:46:07.081 and they're going to be used exclusively with our software in them we also have an exclusive
+00:46:13.130 partnership with skidata which is a leader in Europe I believe for unattended PRS machines
+00:46:21.829 and they will also be using our software exclusively okay second question you mentioned at the
+00:46:29.350 start 1.8 billion on banked how does this solution address that problem um we aim to
+00:46:37.109 include the financially excluded this is the case because sometimes people don't have smartphones
+00:46:44.599 so many people don't have smartphones actually in the world the 30 and uh and with this solution
+00:46:51.690 you do not need a smartphone to be able to pay so people that do not have apple wallet
+00:46:57.200 or credit cards even like in third world countries would be able to access finances this way
+00:47:04.110 but my understanding is you download the app so you need to borrow someone else's smartphone
+00:47:09.470 that okay but you then need to connect your existing bank accounts so for the unbanked those with our bank accounts how does this offer a solution directly in the points of
+00:47:20.040 sale where you find the machines you can onboard there so you do not actually need to download
+00:47:25.890 the app to do it it's just how most of our users do it like the major user experience
+00:47:31.760 is that way and for them banked they there's like processes for which they do get to be
+00:47:38.320 banked like through our app it's a facilitator through our software and are you looking at
+00:47:44.170 integrating crypto yes okay I was going to ask that how are you going to address the
+00:47:51.109 growing on-chain Banking and decentralized Banking and you know obviously peer-to-peer
+00:47:57.480 transactions so yeah if you could address that a little bit that'd be great since yes I am not the crypto expert in the company by any means so I do not want to like give
+00:48:06.440 you false informations um but I do believe that you can connect like any payment system
+00:48:12.750 to our um software so you can connect your crypto wallets and pay using those
+00:48:18.300 so I just wanted to clarify and you just said it again so you are enabling existing Payment
+00:48:29.109 Processing software so you are an embedded piece of software so I don't have to replace
+00:48:34.859 my point of sale don't have to replace that you're embedding into existing infrastructure regardless of the payment processor yes and no so Merchants can choose to either upgrade
+00:48:46.299 their POS machines so like how they used to only have card readers in them I know they
+00:48:52.020 also have contactless readers on them the next stage of evolution all of the POS machine
+00:48:57.301 producers are making their new generation one with embedded fingerprint readers in them
+00:49:02.440 and we know this because we partner with many of them but in case they do not want to replace
+00:49:07.580 their existing one they can just supplement it with a very small piece that reads your fingerprint and it's very inexpensive and it can be connected to any piece of tech and
+00:49:17.280 where are you focused on globally in Europe yes we're starting off in Italy and then we
+00:49:24.180 plan to expand in Europe and then when we get the virtual banking license that's globally
+00:49:31.359 okay one last question which was answered and I just wasn't sure about it so that has
+00:49:37.599 someone tried this and failed right so if you think about the other you know your ability
+00:49:43.200 to maintain Competitive Edge on a global basis starting in Italy so have someone try this and failed and are there other you know who's your threat behind you who do you worry about
+00:49:52.950 at night when you go to bed I worry about Jeff Bezos not because of what he's actually
+00:49:58.490 doing but because of the power he has and big corporations that are going for these
+00:50:04.270 biometric Solutions but not because their Solutions are better just because of the huge
+00:50:09.290 power and amount of money that they have behind them I know there have been people that have
+00:50:15.040 tried doing fingerprint payments before but the attack was not where it is right now the readers were not that as efficient as they are now and it was the market wasn't ready
+00:50:26.559 for it in general all right one last question what's your ask I asked the last guy that
+00:50:31.799 too so why are you up there and what do you want um so we're raising 2 million for our seed round thank you
+00:50:45.119 thank you very much and last but not least can I have platform 55 please oh perfect
+00:50:59.170 good afternoon we have a problem and when I say we I mean me I mean you I mean all of
+00:51:16.240 us whether you're here from a really small startup or you're part of a multinational
+00:51:22.609 I'm Tracy Gunn co-founder of platform 55. so what is this problem that we all share
+00:51:30.619 the problem that we have is that Talent is walking out the door and this is at a time
+00:51:37.049 when the cipd say that 90 of organizations are facing a skills shortage this creates
+00:51:44.190 a headache and not only that it impacts our bottom line so what the heck is happening
+00:51:51.220 what's going on let's have a look at some of the people issues that organizations are
+00:51:56.430 currently dealing with today if you have a look at the screen behind me you'll see just
+00:52:02.809 a snapshot of some of the things that companies are dealing with so from grappling with how
+00:52:09.600 do we manage hybrid working how do we close our gender pay Gap how do we manage the increasing
+00:52:16.220 and changing employee expectations so this is the problem that we're all dealing with
+00:52:25.519 this is what's going on in companies but let me introduce you to my co-founder Michelle O'Keefe Michelle what else is happening so a lot of these issues that Tracy is referenced
+00:52:35.150 here relate to working parents on average 55 of the workforce are working parents has
+00:52:41.000 the penny dropped where our name comes from on top of that in your organizations
+00:52:46.089 80 of women consider not returning back after maternity leave one in three dads are currently
+00:52:54.690 moving roles to find more family-friendly organizations and fifty percent of employees say that it is not compatible to be a parent and hold a senior role and this is massively
+00:53:03.280 contributing to the inequalities at senior senior levels gender inequalities of senior levels on top of this eight out of ten managers say that they're not equipped to have conversations
+00:53:13.609 around sensitive family topics that impact the workplace and often showing this hot potato back to HR so what is the cost of ignoring this problem I hope I know my name check in
+00:53:26.810 front of you because in the air if you have that they're excellent I can see them there right let's imagine you have someone on their team and they're brilliant okay you don't
+00:53:35.350 want to lose this person they've just become a parent but for some of the reasons that
+00:53:40.760 Michelle has outlined they're not going to come back to your company let's just say they're
+00:53:47.150 earning 50 000 a year what's it going to cost your business to replace this person have
+00:53:54.059 a go at coming up with a figure in your head what would you think the actual answer is
+00:54:00.690 a hundred and twenty thousand Euros to replace them now I don't know how close you got you can come and tell me afterwards but this has come in right off your bottom line now let's
+00:54:10.490 flip this and let's think about what is the cost of actually getting this right of supporting
+00:54:16.079 people through some of life's key moments well not only does it save us money it reduces
+00:54:21.930 attrition it increases productivity by as much as 33 percent and and in it increases
+00:54:28.230 engagement and that's why we created a solution a straightforward solution that addresses
+00:54:35.260 what is quite a complex issue we did this by building a scalable platform and organization
+00:54:42.750 such as KPMG qualtrics AXA are already seeing how you can take care of business by taking
+00:54:51.210 care of your people through the scalable platform we're able to do that at an average cost of
+00:54:56.800 24 Euros per employee per year so we've built a platform that has triple bottom line Solutions
+00:55:05.740 it looks after your people it delivers commercial benefit and addresses your CSO agenda this
+00:55:11.059 year alone we've been featured in Kerry's annual report and Irish lives at your report cited as solutions to both gender pay Gap reporting and diversity inclusion challenges
+00:55:21.270 the platform itself provides employees what they need when they need it so our platform
+00:55:27.599 is a turnkey solution we can onboard onboard Partners within 48 Hours giving their employees immediate access to supports from everything from preconception fertility and surrogacy
+00:55:37.010 all the way through to menopause and everything in between more importantly we train and Coach managers how to handle these conversations we also track and monitor the inclusivity
+00:55:46.740 progress to our diagnostic tool year and year the the total addressable Market size is 2.6
+00:55:54.640 billion that is based on our SMB solution all the way through to Enterprise solution
+00:56:00.690 are we the only people in the market looking at solving this problem no but the market is extremely fragmented and disjointed AXA as part of the procurement process we're asked
+00:56:10.520 to find three supplier quotes they couldn't find one other supplier to quote for this work which puts us in a quite a unique position don't take my word for it these are the clients
+00:56:18.890 we've onboarded in the last two years so what makes us a good founding team well I have
+00:56:25.750 two decades of experience of working in HR I've also run my own successful business for
+00:56:30.880 the last 18 years working with c-suite all the way through to Frontline managers I also
+00:56:36.349 happen to be a working parent so I get the challenges I was promoted to managing director
+00:56:41.780 of the Irish Times digital media agency 24 hours before my first baby arrived given me very first-hand experience of the problems we are trying to solve in 2008 I was named
+00:56:50.829 entrepreneur of the year for a previous Tech business we have grown the team from two to six in the last two years and we have an extended contractor team of 24 expert panelists
+00:57:02.180 we are two years old today can I have a whoo in the last two years we have supported 30
+00:57:10.680 000 employees in seven European languages in Sign Language across emea and the US and
+00:57:15.840 we've increased Revenue 247 year on year that has been quite the two years so what do we
+00:57:21.990 see coming up in the next five years well fueled by investment we want to increase our International footprint we want to grow our team and develop our take so that we can save
+00:57:32.510 all of your fabulous businesses money but most importantly for us so that we can have
+00:57:39.030 a positive impact on the lives of 1.2 million Working Families we really hope you want to
+00:57:45.000 be part of this solution thank you thank you oh
+00:57:54.050 no questions I have a question oh [ __ ] um you mentioned a diagnostic tool so what
+00:57:59.400 is the percentage of work that you're doing that is Services versus technology enablement
+00:58:05.079 a 100 technology and age enablement so the the diagnostic tool is is online and digital um and all of our partners access the material content resources training through the digital
+00:58:16.320 platform and do you merge it all into any of like the um wealth programs that an institution
+00:58:24.670 has right so you're looking after diversity inclusion and these certain things but is there any wealth component tied into what you're doing for like in the states it would
+00:58:33.130 be 401k or any of the retirement planning that you're looking at um and how that would impact so that's a really interesting question with the diagnostic tool we're always asking
+00:58:42.130 people what their challenges are things have changed year and Year post-pandemic solo parenting has come up as a big topic um and on our last diagnostic retirement and planning came up
+00:58:51.039 so we're always bringing in Specialists depending on what we're hearing through the Diagnostics so that's the conversation we had two weeks ago with a person was there you've got all
+00:59:00.849 those clients so how much money you're making right now uh we are on track to turn over 480k this year congratulations I'm going to let Tracy speak actually that's terrible you're
+00:59:09.780 doing a great job Michelle take it away it's fine
+00:59:18.650 hi uh great rosenhagen ladies thank you very much um the training material itself two questions
+00:59:24.109 number one where is the touristron uh number two who was at a target of that is it just
+00:59:29.920 the managers is it the entire Workforce can you can you talk to me a little bit more about that yeah I would love to so this is where my two decades of experience comes in so a
+00:59:38.619 lot of the material is material that I personally have created and developed and then we've turned that into digital Solutions so that can be accessed you know Anytime Anyplace
+00:59:48.260 some of it's live as well so we can build a sense of community with that on the topics that Michelle has said for by we are not the experts that's where we bring in other partners
+00:59:58.319 who are subject matter experts and then in terms of who it's targeted at when we we actually
+01:00:04.039 could be called platform 94 because when you factor in the people who are already parents
+01:00:09.559 those who might hope to become parents in the future and their managers it actually equates to 94 of employees does that answer your question okay I'd also just to add to
+01:00:20.180 that we've just added uh those who are carers for elderly parents as well which has come from the diagnostic so I'd say nearly 100 of employees yeah we all have something
+01:00:29.920 how do you measure outcomes over time and what are the trends being when you're working
+01:00:37.510 with the company for a few years and then you can talk about recurring um revenues so we very closely measure and track uh the
+01:00:48.770 feedback that we get and I personally am very very proud that we have a net promoter score of 9.2 so when we think about the amount that you know of clients that we're serving and
+01:00:58.430 the volumes that we have that's one way in which we we measure progress to make sure our quality is absolutely where it needs to be as you mean there's also progress for the
+01:01:07.181 client the problem the problems you talk problems so just to give one example of a question
+01:01:13.070 the diagnostic we ask people how they would rate their maternity leave experience and it's a sliding scale um the the whole diagnostic Taps up into an emps score so like on average
+01:01:22.640 at the moment it's 72 across all of our clients and but each question we can monitor the progress
+01:01:28.500 so let's say we ask how would you rate your maternity leave experience in some organizations people rated one out of nine or one out of ten and people rate it nine out of ten same
+01:01:35.910 policy same culture same people often comes down to the manager we're tracking that particular number for that client to make sure we can move that up next year that people are having
+01:01:43.550 better maternity leave experience maternity leave experiences and all that so it's all in the diagnostic tracked into an FPS score
+01:01:53.270 because you can sell to any market right how are you doing your Market segmentation for go to market sure so um as a result of some of the clients we onboarded in we had to translate
+01:02:02.970 into some particular European languages so geographically we're kind of looking at those areas but we're getting particular Traction in Pharma Finance legal and fmcg so we're
+01:02:11.599 focused on those we onboarded our first construction client last week actually and they have a massive issue with gender equality and this is a great solution for them so we're going
+01:02:19.910 to throw Construction in there as well whoa and have you raised any money you said you're
+01:02:26.150 doing a raise have you raised money to date no we haven't we're self-funded there's actually some money in our bank which is a really strange place to be but we've had some great funding
+01:02:33.750 conversations over the last two days and that is on the agenda hopefully by the end of the year thank you
+01:02:44.059 what's your business model how do you charge for your product it's an annual subscription but we've also just launched an SMB solution do you want to expand yeah sure so it's an
+01:02:53.940 annual so our clients are 250 staff plus they get access to the platform for the year and that's based on a pair user employee so it's a very scale depending on size the organization
+01:03:03.619 they pay an annual fee we've had 100 renewal of our clients so far um so then we've launched
+01:03:09.579 the SMB solution which means if you're a team of 10 and you have somebody who's recently become a father you can buy a two-year support package for them for 899 Euros but typically
+01:03:17.380 most of the revenue is coming from our Enterprise clients
+01:03:22.839 thank you very much [Applause]
+01:03:30.500 and those are our five finalists um thank you very much to all our teams for taking part um I have to say judges well done uh No Holds Barred no easy questions I would
+01:03:42.010 have been afraid to pitch in front of you to be fair but thank you so much for your time and to the teams thank you so much um for giving so much of your time today and
+01:03:50.500 yesterday so folks what's going to happen now we're going to let our judges go away and just have a quick chat about it while that's happening um please welcome to the
+01:03:58.690 stage James McCann from Clear story and Jane Dillon from Ireland's first talent accelerator
+01:04:04.240 Founders at Dogpatch Labs who are going to talk about how to get started and starting up
+01:04:09.369 oh sorry folks we'll be about 15 minutes we'll announce the winner hello ladies and gentle men we are here to uh have a very full-hearted discussion on
+01:04:25.700 uh starting starting up I suppose uh for all of you in the audience who are maybe thinking
+01:04:31.540 about us and uh who would like to set up your own businesses uh delighted to be joined by Jane here um I mean what a time to be even considering starting a business uh and a startup
+01:04:42.560 um on one hand you have layoffs on the other you have other hirings what's going on yeah
+01:04:50.380 like I think the place for me to start is that actually there is hugely Rich Talent
+01:04:55.390 pools here in Ireland you know as a result of a number of different things and mainly it's the investment in multinational tech companies over the last 10 years um not even
+01:05:06.500 the generation one and two kind of first and second your Googles your Facebooks mainly the third generation so your zendex hot spots they all actually based and invested in their
+01:05:17.390 engineering and it's really stimulated um a basically a culture of spinach and what
+01:05:24.869 we see now in Ireland is a really rich uh talent pool that underpins the startup ecosystem
+01:05:31.039 but what we're seeing now with layoffs is a lot more of that um talent coming online
+01:05:36.920 and it's also like you know our University investment we've got over 5000 Computer Engineering
+01:05:43.940 computer science graduates every year coming online and that's only a fraction of what we have in postgrads and phds so yeah we've got really rich Talent pools and because of
+01:05:53.440 what we've just said there and macro headwinds and Tailwinds some of those are coming online now yeah and I I think over the last five years we've seen the Irish Tech ecosystem
+01:06:04.809 you know just steam ahead in terms of trajectory and look obviously multinationals have played a massive role in that bringing new talent to the country developing that Talent you
+01:06:14.119 know and being very generous uh in in giving insights and training and development um and
+01:06:20.109 look as you say you know we we're in a scenario now where uh layoffs are happening or if not
+01:06:25.839 layoffs you know hiring freezes there's people now that have maybe wanted uh to move into
+01:06:33.369 technology and whole breadth of different skill sets engineering marketing you know
+01:06:38.579 what's happening to those people now exactly and you know there is the the smaller part
+01:06:43.740 of those people who have like you know take that first step into entrepreneurship on their own you know they've always wanted to do it but what we're kind of maybe lacking here
+01:06:52.970 which other Innovation economies have are more supports to take that first step into
+01:06:58.980 entrepreneurship and that's what we've been seeing and a lot and people kind of coming
+01:07:04.309 through the doors especially with the layoffs or people who've just been thinking about it or you know being top-line in a startup themselves and have always wanted to do their
+01:07:11.130 own thing so what we've come up with is the talent accelerator model which has been around
+01:07:16.550 for the last decade across many of the like Global major Global ecosystems um and what
+01:07:24.029 we've just launched is founders of dog bash Labs it's it's basically a program to help people come meet a co-founder build a startup from scratch amazing and you know who can
+01:07:35.380 apply for this uh you know again we're kind of talking about all those uh engineer sales
+01:07:40.980 marketing roles that have been kind of maybe let go where people are to loose end yeah I would say as many of you if you're here today you know that Founders come in all shapes
+01:07:49.520 and sizes there is absolutely no credentials or background but I mean there is some key
+01:07:56.510 personas I would say you know you are a computer engineering you're like an engineer software
+01:08:02.710 engineering You Could Be A Serial founder already and you're looking for that perfect co-founder you have just been working in an industry or a domain expert and you've wanted
+01:08:13.110 to solve a problem and you just don't know how to take that first step into finding a business um yeah it kind of there's no age or like 10-year age or stage is kind of not
+01:08:24.779 relevant it's literally for people who have a very keen interest I'm I'm at the time of
+01:08:29.990 my life now I want to start a business uh you know what does it involve yeah so I think
+01:08:35.359 that the inputs into the program are individuals with great founder potential when we speak
+01:08:41.988 about that we think about things like you know they have a huge ambition they've got that grit and resilience you know they're smart and they get stuff done you know um
+01:08:52.160 and they're an outlier they've probably demonstrated done something like outside of what their peer groups have done at some point and beyond that what we're trying to provide with the
+01:09:02.660 program is breaking down those big barriers and finding a co-founder being the biggest
+01:09:09.080 we know that we're having a co-founded company is one of the significant determinants of
+01:09:14.189 startup success but it's really bloody difficult you know it's your own network all of our
+01:09:19.609 networks look like us we all can talk like us you can't get the diversity you need and it's also the diversity of skill set needed you know you might have somebody who's greater
+01:09:28.819 finances uh terrible attack right uh or vice versa you know um and you know if you're going
+01:09:36.950 to do the solo thing you just need an awful lot of support you know what they say about you know either have to have the money the time or the skills and that's the the trifecta
+01:09:45.630 so you guys obviously help kind of bring that together exactly I think the traditional co-founder relationship is someone who builds product and someone who takes it to market now that
+01:09:55.420 within that there's a huge intersection of what that looks like but it's very difficult
+01:10:00.480 for one or the other to find each other in organically or out in the wild so that's what we really want to do and I think the other bits that the program kind of helps to overcome
+01:10:10.590 is that we'll pay you to do this you know there's financial support in the form of a stipend and then at the end of phase one there's an investment committee where people pitch
+01:10:18.150 for pre-seed investment so so we're talking about uh I suppose uh if you're looking to
+01:10:23.510 jump uh this facilitates that you know if you're even in a job and you're saying like
+01:10:28.929 this is something I've wanted to do is that what we're talking for me and I would say this but there is it's a no-brainer there's no downside if you're at a juncture and you're
+01:10:38.420 thinking about it you come in as an individual with high potential at the beginning of this
+01:10:43.719 program and three months later you're the co-founder of a company potentially with 100K preseason investment you know that's incredible it's a very fast trajectory and at the very
+01:10:53.820 least like in a scenario where you don't get funded or you find your co-founder but you
+01:10:59.630 know you don't feel like it's going anywhere you've just spent three months in a room with Ireland's brightest you know ideating supercharging Network and that's often all you need to take
+01:11:10.240 the first step in you know I remember when I was kind of starting up myself and so it's the biggest fear is you know you're leaving some element of security you're going into
+01:11:19.449 the unknown uh anything can happen you know you're learning along the way of course but
+01:11:25.790 you know let's say somebody takes the risk they make the jump and it doesn't always work out right the like Fighters hop on and you know hard lessons are learned what would you
+01:11:36.030 hope that people who take that leap will will achieve so there's a great uh Paul Graham
+01:11:42.510 essay he's the founder of Y combinator many of you might be familiar with his essays and if you aren't definitely give them a read both for life and startups like very wise
+01:11:52.679 man and one of them basically says there is no reason not to do a startup okay I would
+01:11:58.830 go one step further and say there's no reason not to do it with the towns accelerator because it really is a bit of structure it provides the support that you need like it's so difficult
+01:12:09.370 to find a company build a company many of you the guy's just pitching there you're doing so well but like take the help you know take the network we will provide take the money
+01:12:19.970 we will provide take the mentorship you know whatever you start ideating on we can find
+01:12:25.440 the perfect Mentor technologist founder that can come help you and you don't need to kind
+01:12:30.780 of do this in your bedroom alone and that's what we haven't had in Ireland yet yeah you guys are providing the Scaffolding in order to bring another generation or new generation
+01:12:40.230 of startups through get them equipped obviously we're co-founders but scales resources uh
+01:12:47.840 time uh I mean it's a it's a it's a fantastic concept yeah no it's excellent and I I watched
+01:12:54.500 over the last 10 years A lot of my friends go abroad to do these and I actually having the opportunity for people to do it here at home where the ecosystem is thriving beyond
+01:13:04.949 all of the other International ecosystems where some of them are you know already in place it feels um like we're bleeding Talent we don't need to be and it's also the dividend
+01:13:14.659 isn't it of the multinationals having come to Ireland and you know they scaled they might
+01:13:19.990 be just pairing back a bit there's still a massive dividend now that's being paid into the Irish ecosystem that you know we have to harness 100 and as I said it's that even
+01:13:29.600 that third generation of multinational investment that is really paying that dividend it's why
+01:13:35.040 you can see those unicorns in the last few years it's why you've seen that like Turbo Charge and and yeah so I really feel like it's something that's been missing it's here
+01:13:45.210 now um it's not creating things that weren't going to be created these people were going
+01:13:50.690 to find anyway it's activating those Talent pools it's giving them a higher chance of success 100 uh you know again I think you know we would work with with you know season
+01:13:59.860 series Ice Age companies globally and the the biggest hurdle uh is that support network
+01:14:06.420 being able to access a network quickly so that you can acquire investment customers just insights so that you don't make the same mistakes that everybody makes all the time
+01:14:14.600 right 100 so people come through the door every day going I need a co-founder you know
+01:14:20.199 that's the biggest one but they don't have the network to do it the next thing is I can't quit my job because I don't have any money to pay whatever the rent you know and the
+01:14:29.080 third one is who do I ask about this I'm doing the wrong thing you know again these are like
+01:14:35.560 a lot of people who have founded their own things like I had to do that on my own do it yourself but it's more like if these were here we if the input the quality inputs are
+01:14:44.450 these high potential people if we can provide this supercharged process the outputs will
+01:14:50.270 be higher quality startups you're you're sourcing Trail finders people who would have gone ahead
+01:14:55.800 of the Next Generation to just give them the the core lessons that you know you don't need
+01:15:01.270 to learn twice why would we do that exactly it's kind of you know we're reiterating the
+01:15:06.300 same stuff we need to just make that take the risk out of it as best we can so we can just see Talent develop and you know make a great success of things here in Ireland
+01:15:14.170 exactly yeah no no it's a really exciting prospect and you know I think I would say
+01:15:20.000 to anyone who's considering it and you know is at a juncture and potentially has been
+01:15:25.330 impacted by layoffs or you know you're waiting to be shoved off a cliff this could definitely
+01:15:32.340 be the way to do it and it obviously comes with mentorship uh as well what does that
+01:15:37.630 look like yeah so we've got like a huge it's powered by Dog Patch Labs which is you know
+01:15:43.449 one of the essential nodes of the ecosystem here and what we run in all of our other accelerators is mentorship-based programs so it's a huge and amazing network of mentors experts you
+01:15:54.830 know of their foundries themselves they're technologists that really it doesn't matter what you end up ideating on because you come into Founders without a pro without an idea
+01:16:03.380 you know you you do that within the three-month period is you can pick up the phone to someone
+01:16:08.949 and we will have obviously our entrepreneurs and residents who are permanently be running you know with this week to week but it's really a an amazing Network to be able to draw from
+01:16:18.650 and for those now interested in like making the jump right uh key dates how to apply yeah
+01:16:26.139 so the details we have applications open now and they will be closed on the 18th of June
+01:16:31.620 so less than three weeks away and the application form is not long or difficult so I would just
+01:16:37.130 say to people apply no bureaucracy you trade in you just have to be in it to win it so and if you have questions it's very easy to like you know get in touch with us on the
+01:16:45.820 team and but yeah I would say there is absolutely no downside to doing this as I said within
+01:16:51.110 three months you can be co-founder of a company with pre-seed investment that's definitely the fastest you're going to do it and you can apply online at Dogpatch I apply it it's
+01:17:00.130 called like so join Founders is the thing we all find on Dog Patch as well um yeah I
+01:17:05.739 would say there's absolutely no day inside you will Mark your life pre-founders and post Founders for sure well that sounds like a challenge for anyone interested uh you can
+01:17:14.739 go to the Dogpatch website uh there'll be a link there where a very straightforward
+01:17:19.980 non-bureaucratic process process to get yourself involved in mentorship with some of the best
+01:17:26.320 Irish Tech talent that there is available um anything else you might want to add Jay at this stage happy out no I just as I said really no downside to supply good stuff okay
+01:17:36.020 folks well listen um at the very best of luck to our competitors in the pitch competition um and uh a pleasure to sort of close out uh Dublin Tech Summit here today and thank
+01:17:46.080 you all very much for uh giving us your time thank you
+01:17:52.620 this is where a house band and a drum roll would work well um thank you so much judges
+01:18:02.540 for your for your work there um just finally just say once again congratulations to everybody
+01:18:08.000 who's Taken part in this pitch competition over two days it takes a lot obviously you're building businesses so it's a big commitment to take the time out to be part of this and
+01:18:16.280 hopefully you got value out of it we've seen some amazing companies from Ireland Italy
+01:18:21.530 Malta the Ukraine the UK US Azerbaijan even as far as Japan who all decided to come here
+01:18:29.000 under Sunny Dublin day and probably you know had this dream that Ireland is a rainy place all the time ruined for them um but like any good competition um there's only one winner
+01:18:39.630 really and the challenge we have here is it was so close and I mean like hairline fracture
+01:18:45.900 clothes so um in second place we'll say uh by the minuscular fractures please give a
+01:18:55.750 round of applause to platform 55. [Applause]
+01:19:04.640 but the winner of the ignite pitch competition 2023 is IA Labs [Music] guys if you'd like
+01:19:18.159 to join us on stage for some photos um and we'll the DTs team will be in touch with you
+01:19:24.540 regarding your your prizes and stuff like that which will you'll have to come back next year but next year you'll be coming back and you'll have your own stand and everything
+01:19:31.890 here so place the Ia Labs team please come to us and this this will keep you going celebrate for half an hour anyway thank you very much
+01:20:42.239 foreign [Music]
+01:20:50.830 [Music] [Music]
+01:20:59.420 and folks that is it for the ignite stage for 2023 only I guess 300 and something days
+01:21:05.510 until the United States 2024. um thank you to everybody for being here for the last two days in particular like a round of applause for the backstage team who've kept everything
+01:21:15.239 running so smoothly and made my job so easy uh for the rest of you I will see you all
+01:21:20.450 at the after party at 7 30 in Lost Lane uh if you're not there really you've missed the best part of Dublin Tech Summit thanks a million folks [Music] thank you [Music]
