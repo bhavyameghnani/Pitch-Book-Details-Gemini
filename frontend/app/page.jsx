@@ -13,8 +13,12 @@ export default function Page() {
   const [txtFile, setTxtFile] = useState(null);
   const [pdfFile, setPdfFile] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [loadingVideo, setLoadingVideo] = useState(false); // separate loading for video
   const [result, setResult] = useState(null);
+  const [videoFile, setVideoFile] = useState(null); // Removed <File | null> type annotation
+  const [youtubeUrl, setYoutubeUrl] = useState("");
   const [error, setError] = useState("");
+
   const uploadAudioFile = async () => {
     setError("");
     if (!audioFile) {
@@ -107,6 +111,38 @@ export default function Page() {
     }
   };
 
+
+  const uploadVideo = async () => {
+    setError("");
+    if (!videoFile && !youtubeUrl.trim()) {
+      setError("Provide a video file or YouTube link.");
+      return;
+    }
+    setLoadingVideo(true); // separate loading for video
+    setResult(null);
+    try {
+      const form = new FormData();
+      if (videoFile) form.append("file", videoFile);
+      if (youtubeUrl) form.append("youtube_url", youtubeUrl);
+
+      const res = await fetch(`${API_BASE}/analyze-video/`, { // corrected route
+        method: "POST",
+        body: form,
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.detail || "Server error");
+      setResult(data);
+
+      // reset video inputs
+      setVideoFile(null);
+      setYoutubeUrl("");
+    } catch (err) {
+      setError(String(err));
+    } finally {
+      setLoadingVideo(false);
+    }
+  };
+
   return (
     <div className="space-y-8">
       <header className="flex flex-col sm:flex-row items-center justify-between gap-2 border-b pb-4 mb-4">
@@ -186,6 +222,39 @@ export default function Page() {
           {pdfFile && <div className="text-sm text-slate-600">{pdfFile.name}</div>}
         </div>
         <div className="text-xs text-slate-400 mt-1">Note: PDF processing may take some time depending on your backend AI calls.</div>
+      </Card>
+
+
+       {/* Video Section */}
+      <Card>
+        <h2 className="text-lg font-semibold mb-2">Transcribe Video (File or YouTube Link)</h2>
+        <div className="flex flex-col gap-4">
+          <div>
+            <label className="font-medium mb-1">Upload Video File</label>
+            <input
+              type="file"
+              accept="video/*,.mp4,.mov,.avi,.mkv"
+              onChange={(e) => setVideoFile(e.target.files?.[0] ?? null)}
+              className="block w-full text-sm text-slate-600 file:mr-4 file:py-2 file:px-4 file:rounded-lg file:border-0 file:text-sm file:font-semibold file:bg-blue-50 file:text-blue-700 hover:file:bg-blue-100"
+            />
+            {videoFile && <div className="text-xs text-slate-600 mt-1">{videoFile.name}</div>}
+          </div>
+
+          <div>
+            <label className="font-medium mb-1">Or paste YouTube link</label>
+            <input
+              type="text"
+              value={youtubeUrl}
+              onChange={(e) => setYoutubeUrl(e.target.value)}
+              placeholder="https://youtube.com/watch?v=..."
+              className="w-full p-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400"
+            />
+          </div>
+
+          <Button onClick={uploadVideo} disabled={loadingVideo} className="w-52">
+            {loadingVideo ? "Processing..." : "Transcribe Video"}
+          </Button>
+        </div>
       </Card>
 
       {/* Result Section */}

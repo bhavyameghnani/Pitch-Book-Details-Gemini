@@ -9,16 +9,18 @@ import fitz  # PyMuPDF
 from PIL import Image
 import google.generativeai as genai
 from dotenv import load_dotenv
-from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi import FastAPI, UploadFile, File, HTTPException,Form
 from fastapi.responses import JSONResponse
 from typing import List, Dict
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from tempfile import NamedTemporaryFile
 import base64
+import tempfile
 from modules.transcript_analysis import analyze_transcript_with_ai
 from modules.pitch_deck_analysis import process_pitch_deck
 from modules.transcribe_generator import transcribe_audio_with_gemini
+from modules.video_transcribe import transcribe_video, SUPPORTED_VIDEO_EXTENSIONS
 
 
 # ===============================
@@ -122,3 +124,41 @@ async def analyze_pitch_deck(file: UploadFile = File(...)):
         return JSONResponse(content=result)
     finally:
         os.remove(temp_path)
+
+SUPPORTED_VIDEO_EXTENSIONS = (".mp4", ".mov", ".mkv", ".avi")
+
+@app.post("/analyze-video/")
+async def analyze_video(file: UploadFile = None, youtube_url: str = Form(None)):
+    tmp_path = None
+    try:
+        if youtube_url:
+            transcript = transcribe_video(youtube_url, is_youtube=True)
+            if not transcript or not transcript.strip():
+                raise HTTPException(status_code=500, detail="Transcription returned empty text.")
+            analysis = analyze_transcript_with_ai(transcript)
+            return {"transcript": transcript, "analysis": analysis}
+
+        elif file:
+            ext = os.path.splitext(file.filename)[-1].lower()
+            if ext not in SUPPORTED_VIDEO_EXTENSIONS:
+                raise HTTPException(status_code=400, detail=f"Unsupported video format: {ext}")
+
+            with tempfile.NamedTemporaryFile(delete=False, suffix=ext) as tmp:
+                tmp.write(await file.read())
+                tmp_path = tmp.name
+
+            transcript = transcribe_video(tmp_path, is_youtube=False)
+            if not transcript or not transcript.strip():
+                raise HTTPException(status_code=500, detail="Transcription returned empty text.")
+            analysis = analyze_transcript_with_ai(transcript)
+            return {"transcript": transcript, "analysis": analysis}
+
+        else:
+            raise HTTPException(status_code=400, detail="Please upload a video or provide a YouTube link.")
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+    finally:
+        if tmp_path and os.path.exists(tmp_path):
+            os.remove(tmp_path)
